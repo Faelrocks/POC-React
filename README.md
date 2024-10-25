@@ -9,7 +9,7 @@
  
  * [Estrutura de Projeto NextJS](#Estrutura)
  * [Criação de componentes simples (sem estado)](#Componentes)
- * [Estilo CSS (global e módulo).](#Estilo)
+ * [Estilo CSS (global e módulo).](#Estilos)
  
  <!--te-->
 
