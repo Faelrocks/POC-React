@@ -14,7 +14,7 @@
  <!--te-->
 
  ## Estrutura
-
+A estrutura básica de um projeto Next.js geralmente se parece com isso:
 ~~~javascript
    my-next-app/
    ├── app/
