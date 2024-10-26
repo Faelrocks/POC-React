@@ -124,3 +124,8 @@ const Home = () => {
 
 export default Home;
 ~~~~
+
+## Membros do Grupo
+* Fabrício de Almeida Silva RA: 10437724
+* Rafael Queiroz Moraes RA: 10441847
+* João Vitor Macea Vinhando RA: 10437139
